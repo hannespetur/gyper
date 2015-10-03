@@ -1,0 +1,4 @@
+# Automake files
+autom4te.cache/
+
+*.log
