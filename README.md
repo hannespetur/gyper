@@ -1,2 +1,2 @@
 # Gyper
-Gyper has been moved to [https://github.com/gyper/gyper](github.com/gyper/gyper).
+Gyper has been moved to [github.com/gyper/gyper](https://github.com/gyper/gyper).
